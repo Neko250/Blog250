@@ -1,6 +1,8 @@
 <p>
-	<a href="http://neko250.github.io/Blog250/the_solution/" class="btn btn-dark">The Solution To<br>All Your Problems</a>
+	<a href="http://neko250.github.io">Home</a>
+	<a href="http://neko250.github.io/Blog250/the_solution/" class="btn btn-dark">The Solution</a>
 </p>
+{% if site.show_social %}
 <p>
 	{% if site.github_user %}
 		<a href="http://github.com/{{site.github_user}}" class="btn btn-dark">GitHub</a>
@@ -9,3 +11,4 @@
 		<a href="http://twitter.com/{{site.twitter_user}}" class="btn btn-dark">Twitter</a>
 	{% endif %}
 </p>
+{% endif %}

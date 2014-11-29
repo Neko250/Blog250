@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://Neko250.github.io//github
-title: Neko250
+url: http://neko250.github.io/Blog250
+title: Blog250
 subtitle: Software Engineering Student
 author: Carlos Aguilar
 simple_search: http://google.com/search
@@ -109,3 +109,5 @@ facebook_like: false
 # Gravatar
 gravatar_email: neko_250@ymail.com
 gravatar_header: true
+
+show_social: false
