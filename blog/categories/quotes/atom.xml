@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Quotes | Neko250]]></title>
-  <link href="http://Neko250.github.io//github/blog/categories/quotes/atom.xml" rel="self"/>
-  <link href="http://Neko250.github.io//github/"/>
-  <updated>2014-11-28T05:08:17+01:00</updated>
-  <id>http://Neko250.github.io//github/</id>
+  <title><![CDATA[Category: Quotes | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/quotes/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2014-11-29T19:51:30+01:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Designers, clients be like...]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/07/25/designer-error/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/07/25/designer-error/"/>
     <updated>2014-07-25T10:20:21+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/07/25/designer-error</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/07/25/designer-error</id>
     <content type="html"><![CDATA[<h3>What not to say to a graphic designer:</h3>
 
 <p style="text-align:center;"><img src="http://i.imgur.com/Cz0xj6B.jpg" alt="" /></p>
@@ -64,9 +64,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trinity of Creativity]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/07/24/creativity/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/07/24/creativity/"/>
     <updated>2014-07-24T16:28:05+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/07/24/creativity</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/07/24/creativity</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/gLgdoBj.png" alt="" /></p>
 
 <hr />
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[Thinking of Infinity]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/04/09/mankind-lovecraft/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/04/09/mankind-lovecraft/"/>
     <updated>2014-04-09T03:03:24+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/04/09/mankind-lovecraft</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/04/09/mankind-lovecraft</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/Bs2adYU.png" alt="" /></p>
 
 <hr />
@@ -86,9 +86,9 @@
   
   <entry>
     <title type="html"><![CDATA[Competition]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/04/09/competition/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/04/09/competition/"/>
     <updated>2014-04-09T01:06:45+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/04/09/competition</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/04/09/competition</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/K7M87Vm.jpg" alt="" /></p>
 
 <hr />
@@ -97,9 +97,9 @@
   
   <entry>
     <title type="html"><![CDATA[Star Stuff]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/03/17/star-stuff/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/03/17/star-stuff/"/>
     <updated>2014-03-17T20:27:26+01:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/03/17/star-stuff</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/03/17/star-stuff</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/rjT2lj7.jpg" alt="" /></p>
 
 <p>The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.</p>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Illustration | Neko250]]></title>
-  <link href="http://Neko250.github.io//github/blog/categories/illustration/atom.xml" rel="self"/>
-  <link href="http://Neko250.github.io//github/"/>
-  <updated>2014-11-28T05:08:17+01:00</updated>
-  <id>http://Neko250.github.io//github/</id>
+  <title><![CDATA[Category: Illustration | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/illustration/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2014-11-29T19:51:30+01:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Designers, clients be like...]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/07/25/designer-error/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/07/25/designer-error/"/>
     <updated>2014-07-25T10:20:21+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/07/25/designer-error</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/07/25/designer-error</id>
     <content type="html"><![CDATA[<h3>What not to say to a graphic designer:</h3>
 
 <p style="text-align:center;"><img src="http://i.imgur.com/Cz0xj6B.jpg" alt="" /></p>
@@ -64,9 +64,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fuck Yeah Illustrative Art]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/07/24/fuckyeah-art/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/07/24/fuckyeah-art/"/>
     <updated>2014-07-24T16:31:40+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/07/24/fuckyeah-art</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/07/24/fuckyeah-art</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/evKbH21.jpg" alt="" /></p>
 
 <p style="text-align:center;"><img src="http://i.imgur.com/gRjxR9N.jpg" alt="" /></p>
@@ -88,9 +88,9 @@
   
   <entry>
     <title type="html"><![CDATA[Typewriter]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/07/24/typewriter/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/07/24/typewriter/"/>
     <updated>2014-07-24T16:24:03+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/07/24/typewriter</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/07/24/typewriter</id>
     <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/rJNhqdT.jpg" alt="" /></p>
 
 <hr />

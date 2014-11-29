@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Games | Neko250]]></title>
-  <link href="http://Neko250.github.io//github/blog/categories/games/atom.xml" rel="self"/>
-  <link href="http://Neko250.github.io//github/"/>
-  <updated>2014-11-28T05:08:17+01:00</updated>
-  <id>http://Neko250.github.io//github/</id>
+  <title><![CDATA[Category: Games | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/games/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2014-11-29T19:51:30+01:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Glorg]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/03/21/glorg/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/03/21/glorg/"/>
     <updated>2014-03-21T17:30:31+01:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/03/21/glorg</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/03/21/glorg</id>
     <content type="html"><![CDATA[<center><object width="730" height="547" data="https://dl.dropboxusercontent.com/u/51009603/blog/glorg-7115.swf?v=1395343247"></object></center>
 
 
@@ -27,9 +27,9 @@
   
   <entry>
     <title type="html"><![CDATA[Papo & Yo]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/03/11/papo-and-yo/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/03/11/papo-and-yo/"/>
     <updated>2014-03-11T01:06:28+01:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/03/11/papo-and-yo</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/03/11/papo-and-yo</id>
     <content type="html"><![CDATA[<p>Videogames like this are the ones that I truly admire, the ones that make me want to make videogames&hellip; some day not too far away from here. These make an ART from games development. These are the ones that make you feel, that catch you into their stories. Are the ones that make you drop some tears.
 I would totally recommend it to you (You do not even need to be a gamer to play and enjoy Papo &amp; Yo).</p>
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Paintings | Neko250]]></title>
-  <link href="http://Neko250.github.io//github/blog/categories/paintings/atom.xml" rel="self"/>
-  <link href="http://Neko250.github.io//github/"/>
-  <updated>2014-11-28T05:08:17+01:00</updated>
-  <id>http://Neko250.github.io//github/</id>
+  <title><![CDATA[Category: Paintings | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/paintings/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2014-11-29T19:51:30+01:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Descensus Ad Inferos]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/07/06/dante-and-virgil/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/07/06/dante-and-virgil/"/>
     <updated>2014-07-06T12:39:59+02:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/07/06/dante-and-virgil</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/07/06/dante-and-virgil</id>
     <content type="html"><![CDATA[<blockquote><p>So on his Nightmare through the evening fog<br/>
 Flits the squab Fiend o'er fen, and lake, and bog;<br/>
 Seeks some love-wilder&rsquo;d maid with sleep oppress&rsquo;d,<br/>

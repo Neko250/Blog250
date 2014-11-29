@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Tolkien | Neko250]]></title>
-  <link href="http://Neko250.github.io//github/blog/categories/tolkien/atom.xml" rel="self"/>
-  <link href="http://Neko250.github.io//github/"/>
-  <updated>2014-11-28T05:08:17+01:00</updated>
-  <id>http://Neko250.github.io//github/</id>
+  <title><![CDATA[Category: Tolkien | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/tolkien/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2014-11-29T19:51:30+01:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Man in the Moon came down too soon]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/03/07/the-man-in-the-moon/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/03/07/the-man-in-the-moon/"/>
     <updated>2014-03-07T02:16:11+01:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/03/07/the-man-in-the-moon</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/03/07/the-man-in-the-moon</id>
     <content type="html"><![CDATA[<h3>Mi poesía favorita, &ldquo;El Hombre de la Luna Descendió con Premura&rdquo;.</h3>
 
 <p>The Man in the Moon had silver shoon,<br/>

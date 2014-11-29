@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Internet | Neko250]]></title>
-  <link href="http://Neko250.github.io//github/blog/categories/internet/atom.xml" rel="self"/>
-  <link href="http://Neko250.github.io//github/"/>
-  <updated>2014-11-28T05:08:17+01:00</updated>
-  <id>http://Neko250.github.io//github/</id>
+  <title><![CDATA[Category: Internet | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/internet/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2014-11-29T19:51:30+01:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[YouTube Embed Code Generator]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/03/10/youtube-embed/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/03/10/youtube-embed/"/>
     <updated>2014-03-10T17:20:52+01:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/03/10/youtube-embed</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/03/10/youtube-embed</id>
     <content type="html"><![CDATA[<script>
 function generate() {
     var hlink = document.getElementById("url").value;
@@ -64,9 +64,9 @@ function generate() {
   
   <entry>
     <title type="html"><![CDATA[3 Guys, 1 Bar, $27 Billion]]></title>
-    <link href="http://Neko250.github.io//github/blog/2014/03/09/whatsapp/"/>
+    <link href="http://neko250.github.io/Blog250/blog/2014/03/09/whatsapp/"/>
     <updated>2014-03-09T21:45:05+01:00</updated>
-    <id>http://Neko250.github.io//github/blog/2014/03/09/whatsapp</id>
+    <id>http://neko250.github.io/Blog250/blog/2014/03/09/whatsapp</id>
     <content type="html"><![CDATA[<center><blockquote class="twitter-tweet" lang="en"><p>A machine learning researcher, a crypto-currency expert, and an Erlang programmer walk into a bar. Facebook buys the bar for $27 billion.</p>&mdash; ML Hipster (@ML_Hipster) <a href="https://twitter.com/ML_Hipster/statuses/438418306769244160">February 25, 2014</a></blockquote></center>
 
 
