@@ -4,7 +4,7 @@
   <title><![CDATA[Blog250]]></title>
   <link href="http://neko250.github.io/Blog250/atom.xml" rel="self"/>
   <link href="http://neko250.github.io/Blog250/"/>
-  <updated>2014-11-30T01:00:35+01:00</updated>
+  <updated>2015-07-06T03:36:14+02:00</updated>
   <id>http://neko250.github.io/Blog250/</id>
   <author>
     <name><![CDATA[Carlos Aguilar]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Producing Creativity]]></title>
+    <link href="http://neko250.github.io/Blog250/blog/2015/04/13/producing-creativity/"/>
+    <updated>2015-04-13T18:37:27+02:00</updated>
+    <id>http://neko250.github.io/Blog250/blog/2015/04/13/producing-creativity</id>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="23e87b703e9c0132341052932d7daf42" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+<hr />
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Playing With Fire]]></title>
@@ -782,17 +794,6 @@ Great concert !</p>
 <p><img src="http://i.imgur.com/Ezec89q.jpg" alt="" />
 <img src="http://i.imgur.com/MduMdVy.jpg" alt="" />
 <img src="http://i.imgur.com/ScDRbxZ.jpg" alt="" /></p>
-
-<hr />
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Competition]]></title>
-    <link href="http://neko250.github.io/Blog250/blog/2014/04/09/competition/"/>
-    <updated>2014-04-09T01:06:45+02:00</updated>
-    <id>http://neko250.github.io/Blog250/blog/2014/04/09/competition</id>
-    <content type="html"><![CDATA[<p style="text-align:center;"><img src="http://i.imgur.com/K7M87Vm.jpg" alt="" /></p>
 
 <hr />
 ]]></content>
