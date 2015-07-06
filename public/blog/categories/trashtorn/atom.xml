@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: TrashTorn | Blog250]]></title>
+  <link href="http://neko250.github.io/Blog250/blog/categories/trashtorn/atom.xml" rel="self"/>
+  <link href="http://neko250.github.io/Blog250/"/>
+  <updated>2015-07-06T03:36:14+02:00</updated>
+  <id>http://neko250.github.io/Blog250/</id>
+  <author>
+    <name><![CDATA[Carlos Aguilar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[TrashTorn Live @ Eventual Music]]></title>
+    <link href="http://neko250.github.io/Blog250/blog/2014/04/09/trashtorn-live/"/>
+    <updated>2014-04-09T01:11:40+02:00</updated>
+    <id>http://neko250.github.io/Blog250/blog/2014/04/09/trashtorn-live</id>
+    <content type="html"><![CDATA[<p>I played live at Eventual Music two weeks ago, with my band Trashtorn.<br/>
+Great concert !</p>
+
+<ul>
+<li><p><a href="https://www.facebook.com/pages/Trashtorn/398467070245460"><strong>Trashtorn on Facebook</strong></a></p></li>
+<li><p><a href="http://trashtorn.bandcamp.com/"><strong>Free EP</strong></a></p></li>
+</ul>
+
+
+<p><img src="http://i.imgur.com/Ezec89q.jpg" alt="" />
+<img src="http://i.imgur.com/MduMdVy.jpg" alt="" />
+<img src="http://i.imgur.com/ScDRbxZ.jpg" alt="" /></p>
+
+<hr />
+]]></content>
+  </entry>
+  
+</feed>
